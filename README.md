@@ -18,6 +18,7 @@
 - [DevOps in the Cloud: Case Studies of Amazon.com teams and their resilient architectures](./eliot-dev-ops-in-the-cloud-case-studies-of-amazon-com-teams-and-their-resilient-architectures) &mdash; Seth Eliot
 - [Effective Automated Testing - Lessons from 10 Years](./house-effective-automated-testing-lessons-from-10-years) &mdash; Cory House
 - [From Legacy Monolith to Microservices via Event Storming](./dutkiewicz-from-legacy-monolith-to-microservices-via-event-storming) &mdash; Sarah Dutkiewicz
+- [From Punch Cards to Git: A Brief History of Version Control](./meeker-from-punch-cards-to-git-a-brief-history-of-version-control) &mdash; Brian Meeker
 - [How I tricked my company into hiring Chat GPT](./pries-how-i-tricked-my-company-into-hiring-chat-gpt) &mdash; Daniel Pries
 - [How does Netflix build softwares to streamline organizational operations](./agarwal-how-does-netflix-build-softwares-to-streamline-organizational-operations) &mdash; Ruchi Agarwal
 - [JSON Data Modeling in Document Databases](./groves-json-data-modeling-in-document-databases) &mdash; Matthew Groves
