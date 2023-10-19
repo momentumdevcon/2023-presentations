@@ -19,6 +19,8 @@ We'll discuss how to create a seamless experience for users, from the moment the
 
 Whether you're designing a website, app, or digital product, this talk will give you practical tips on how to create a user experience that captures your users' attention and keeps them engaged.
 
+[Download Presentation on Google Drive](https://docs.google.com/presentation/d/1H1iIoF98oZw7KanlI2kG2-PosvF-K9uP0wNoQvntu2U/edit?usp=sharing)
+
 - **Level**: Introductory and overview
 - **Tags**: Design, Front-End &  Web
   
