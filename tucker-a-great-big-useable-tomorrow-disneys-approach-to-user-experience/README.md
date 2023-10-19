@@ -4,6 +4,8 @@ Ricky Tucker &mdash; *UX/UI Designer - Louisiana Office of Technology Services*
 
 - [Twitter](https://twitter.com/TuckTales)
 - [LinkedIn](https://www.linkedin.com/in/rltucker/)
+- [Threads](https://www.threads.net/@tucktales79)
+
 
 ## Bio
 
