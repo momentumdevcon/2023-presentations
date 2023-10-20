@@ -26,4 +26,9 @@ While the main point of this talk is to get you thinking differently about your 
 
 - **Level**: Intermediate
 - **Tags**: Data, Cloud & Infrastructure, Other
-  
+
+ ## Code
+
+Presentation code is available at [GitStractor.com](https://github.com/integerman/gitstractor).
+
+Please reach out to Matt on social regarding interest or issues in the project.
