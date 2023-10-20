@@ -27,7 +27,11 @@ While the main point of this talk is to get you thinking differently about your 
 - **Level**: Intermediate
 - **Tags**: Data, Cloud & Infrastructure, Other
 
- ## Code
+## Slides
+
+The presentation can be [viewed online](https://1drv.ms/p/s!AiBfiXC6wirjkZxsNKzHbeBeWa2HmA?e=agPT7v) or [downloaded as a PDF](VisualizingCode.pdf)
+
+## Code
 
 Presentation code is available at [GitStractor.com](https://github.com/integerman/gitstractor).
 
