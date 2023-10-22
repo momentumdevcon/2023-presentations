@@ -4,6 +4,7 @@ Erissa Duvall &mdash; *Accessibility Ally and Engineer*
 
 - [Twitter](https://twitter.com/TheCorgiDev)
 - [LinkedIn](https://www.linkedin.com/in/corgidev/)
+- [Corgidev Accessibility Page](https://corgidev.com/a11y.html)
 
 ## Bio
 
