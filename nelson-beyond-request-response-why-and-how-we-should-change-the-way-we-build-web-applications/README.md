@@ -22,3 +22,7 @@ We’ll explore this idea with several code examples that gradually increase in 
 - **Level**: Intermediate
 - **Tags**: Front-End &  Web, Patterns & Practices
   
+## Links
+
+- [Presentation slides](https://github.com/launchscout/momentum-2023-beyond-request-response)
+- [Demo project](https://github.com/launchscout/simplified_comments)
