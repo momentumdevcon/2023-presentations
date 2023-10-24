@@ -33,4 +33,7 @@ This session will provide a series of examples of bad front-end tests and how to
 
 - **Level**: Introductory and overview
 - **Tags**: Front-End &  Web, Patterns & Practices, Testing
-  
+
+## Presentation Tool Repository
+
+* [Repository](https://github.com/bob-fornal/talk--presentation-tool)
