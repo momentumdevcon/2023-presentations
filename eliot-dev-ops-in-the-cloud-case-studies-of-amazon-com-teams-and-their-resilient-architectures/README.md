@@ -1,8 +1,10 @@
 # DevOps in the Cloud: Case Studies of Amazon.com teams and their resilient architectures
 
+**Download the slide deck from [here](./2023_10_momentum_DevOps_in_the_Cloud.pdf)**
+
 Seth Eliot &mdash; *Principal Developer Advocate, AWS*
 
-- [Twitter](https://twitter.com/setheliot)
+- [X (Twitter)](https://twitter.com/setheliot)
 - [LinkedIn](https://www.linkedin.com/in/setheliot/)
 - [Website](https://linktr.ee/setheliot)
 
