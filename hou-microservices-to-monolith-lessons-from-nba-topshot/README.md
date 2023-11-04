@@ -1,8 +1,9 @@
 # Microservices to Monolith: Lessons from NBA Topshot
 
-Quinn Hou &mdash; *Software Engineer, Dapper Labs*
+Quinn Hou &mdash; _Software Engineer, Dapper Labs_
 
 - [LinkedIn](https://www.linkedin.com/in/quinnhou/)
+- [Slides](https://github.com/qhou/microservices-to-monolith)
 
 ## Bio
 
@@ -10,10 +11,9 @@ Quinn is a software engineer at Dapper Labs, where she has experimented and laun
 
 ## Abstract
 
-When we set out to build NBA Topshot, we thought a microservices architecture was the right choice. But after 20 services and many headaches, we realized that sometimes the simplest approach is the best. We had over-engineered our code, slowed down our shipping speed, and created tech debt. When we started our next project, NFL All Day, we took a different approach and moved towards a near monolithic design. 
+When we set out to build NBA Topshot, we thought a microservices architecture was the right choice. But after 20 services and many headaches, we realized that sometimes the simplest approach is the best. We had over-engineered our code, slowed down our shipping speed, and created tech debt. When we started our next project, NFL All Day, we took a different approach and moved towards a near monolithic design.
 
 In this talk, we'll share our journey on reducing complexity in microservices and provide a side-by-side comparison of the same feature implemented with both architectures. We'll discuss the pros and cons of each approach and how they impact simplicity, scalability, extensibility, and developer productivity, as well as share ways to improve your code from project to project.
 
 - **Level**: Intermediate
 - **Tags**: Back-End, Cloud & Infrastructure, Patterns & Practices, Databases
-  
